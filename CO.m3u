@@ -62,3 +62,6 @@ https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-name="Tele Sur" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Tele%20Sur.jpg?raw=true" group-title="Internacional",Tele Sur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="Liga 1 Max" tvg-logo="https://raw.githubusercontent.com/Richard-PDL-64/Imagenes-m3u8/refs/heads/main/Liga%201%20Max.jpg" group-title="Perú",Liga 1 Max
+https://anvtcax.fubohd.com/liga1max/mono.m3u8?token=a4aae550be36125eca60a3df07be254b0fde730f-b6-1773534278-1773516278
