@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="America TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/America%20TV.jpg?raw=true" group-title="Perú",AMERICA TV
-https://live-evg20.tv360.bitel.com.pe/tBeXVeM2JO991Fvo8Zda6w/1773596418/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/tBeXVeM2JO991Fvo8Zda6w/1773596418/bitel/America-udp/bitel/America-udp_1080p/chunks.
 
 #EXTINF:-1 tvg-id="2" tvg-name="ATV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV.jpg?raw=true" group-title="Perú",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
