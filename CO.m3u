@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="America TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/America%20TV.jpg?raw=true" group-title="Perú",AMERICA TV
-https://live-evg20.tv360.bitel.com.pe/tBeXVeM2JO991Fvo8Zda6w/1773596418/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/Bszgo6z6boMRbKP3mM-aBg/1773661680/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="ATV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV.jpg?raw=true" group-title="Perú",ATV
-https://live-evg20.tv360.bitel.com.pe/YJpD_gF6QyN8r6t8BFzM0g/1773607365/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="LATINA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Latina.jpg?raw=true" group-title="Perú",LATINA
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="PANAMERICANA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Panamericana.jpg?raw=true" group-title="Perú",PANAMERICANA
-https://live-evg20.tv360.bitel.com.pe/Xzo28RRu4cYOoAgRih7ghg/1773596712/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/G2u2RWkMvj2tNcCDLLmELA/1773661842/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="WILLAX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Willax.jpg?raw=true" group-title="Perú",WILLAX
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
@@ -64,4 +64,4 @@ https://live.presstv.ir/hls/hispantv.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="Liga 1 Max" tvg-logo="https://raw.githubusercontent.com/Richard-PDL-64/Imagenes-m3u8/refs/heads/main/Liga%201%20Max.jpg" group-title="Perú",Liga 1 Max
-https://anvtcax.fubohd.com/liga1max/mono.m3u8?token=a4aae550be36125eca60a3df07be254b0fde730f-b6-1773534278-1773516278
+https://agvyby.fubohd.com/liga1max/mono.m3u8?token=19e0cb1ec810a5de95655a344ea36b3a29309b2d-2f-1773592639-1773574639
