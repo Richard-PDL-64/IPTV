@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="America TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/America%20TV.jpg?raw=true" group-title="Perú",AMERICA TV
-https://live-evg20.tv360.bitel.com.pe/Bszgo6z6boMRbKP3mM-aBg/1773661680/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/OXoIK6nDdxw3mRUohtiP-w/1773718572/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="ATV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV.jpg?raw=true" group-title="Perú",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -10,7 +10,7 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="PANAMERICANA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Panamericana.jpg?raw=true" group-title="Perú",PANAMERICANA
-https://live-evg20.tv360.bitel.com.pe/G2u2RWkMvj2tNcCDLLmELA/1773661842/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/BCn2a3PSiW1-iiEaQUfDvw/1773718683/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="WILLAX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Willax.jpg?raw=true" group-title="Perú",WILLAX
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
