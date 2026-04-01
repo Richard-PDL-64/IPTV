@@ -10,19 +10,19 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="AMERICA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/America%20TV.jpg?raw=true" group-title="Perú",AMERICA
-https://live-evg20.tv360.bitel.com.pe/EPzuUFYBx7i5aOnE5EHtKA/1775044314/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/Hf-QG_CKT2JGNiCnsNV-mw/1775089356/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="PANAMERICANA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Panamericana.jpg?raw=true" group-title="Perú",PANAMERICANA
-https://live-evg20.tv360.bitel.com.pe/BXA0B-qtpDcWp_GP9omT7g/1775044359/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/R7Uv3N6Rg5rtvciA8aes0A/1775089482/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="PBO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/PBO.jpg?raw=true" group-title="Perú",PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="TV PERU" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TV%20Peru.jpg?raw=true" group-title="Perú",TV PERU
-https://live-evg20.tv360.bitel.com.pe/GTWDSzAGtuOhBFdVh_Y7Hg/1775044392/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/S_8s_vknvPTwBBfR-TmS_g/1775089416/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-name="ATV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV.jpg?raw=true" group-title="Perú",ATV
-https://live-evg20.tv360.bitel.com.pe/lKfWBA5DT69O7h9b7wesFQ/1775044467/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/mtZN_UTlkwfnd046wHeCLQ/1775089515/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="ATV+" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV+.jpg?raw=true" group-title="Perú",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
