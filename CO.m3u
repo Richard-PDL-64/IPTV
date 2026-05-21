@@ -63,7 +63,7 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="TELE SUR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Tele%20Sur.jpg?raw=true" group-title="Internacional",TELE SUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Investigacion%20Discovery.jpg?raw=true" group-title="Perú",INVESTIGACION DISCOVERY
+#EXTINF:-1 tvg-id="22" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Investigacion%20Discovery.jpg?raw=true" group-title="Internacional",INVESTIGACION DISCOVERY
 http://179.60.51.134:8888/ID-DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="UNIVERSAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Universal.jpg?raw=true" group-title="Internacional",UNIVERSAL
@@ -74,3 +74,6 @@ http://179.60.51.134:8888/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-name="TELEMUNDO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Telemundo.jpg?raw=true" group-title="Internacional",TELEMUNDO
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="ESPSN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN.jpg?raw=true" group-title="Internacional",ESPN
+http://179.60.51.134:8888/ESPN/index.m3u8
