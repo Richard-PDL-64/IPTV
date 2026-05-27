@@ -75,7 +75,7 @@ http://45.173.74.2:2010/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="TELEMUNDO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Telemundo.jpg?raw=true" group-title="Internacional",TELEMUNDO
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-name="Liga1MAx" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Liga1Max.jpg?raw=true" group-title="Peru",Liga1Max
+#EXTINF:-1 tvg-id="26" tvg-name="Liga1MAx" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Liga1Max.jpg?raw=true" group-title="Pasco",Liga1Max
 http://45.173.74.2:2010/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="ESPN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN.jpg?raw=true" group-title="Internacional",ESPN
