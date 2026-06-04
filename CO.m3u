@@ -78,11 +78,14 @@ http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="LIGA 1 MAX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Liga1Max.jpg?raw=true" group-title="Canal",LIGA 1 MAX
 http://38.224.175.2:8000/play/a07e/index.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="ESPN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN.jpg?raw=true" group-title="Canal",ESPN
+#EXTINF:-1 tvg-id="27" tvg-name="DSPORTS" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports.jpg?raw=true" group-title="Canal",DSPORTS
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN.jpg?raw=true" group-title="Canal",ESPN
 http://179.60.51.134:8888/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%202.jpg?raw=true" group-title="Canal",ESPN 2
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%202.jpg?raw=true" group-title="Canal",ESPN 2
 http://179.60.51.134:8888/ESPN2/index.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="ESPN 6" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%206.jpg?raw=true" group-title="Canal",ESPN 6
+#EXTINF:-1 tvg-id="30" tvg-name="ESPN 6" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%206.jpg?raw=true" group-title="Canal",ESPN 6
 http://190.60.55.141:9083/play/a0j4/index.m3u8
