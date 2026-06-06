@@ -10,7 +10,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 http://45.173.74.2:2010/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-id="04" tvg-name="AMERICA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/America%20TV.jpg?raw=true" group-title="Canal",AMERICA
-https://live-evg20.tv360.bitel.com.pe/Gky_uHJlPRp1KY0gjdh1Kg/1780801281/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+http://38.224.175.2:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-id="05" tvg-name="PANAMERICANA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Panamericana.jpg?raw=true" group-title="Canal",PANAMERICANA
 http://45.173.74.2:2010/play/a070/index.m3u8
