@@ -64,7 +64,7 @@ https://live.presstv.ir/hls/hispantv.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Investigacion%20Discovery.jpg?raw=true" group-title="Canal",INVESTIGACION DISCOVERY
-http://181.66.249.173:8080/play/a0dq/index.m3u8
+http://45.173.74.2:2010/play/a09c/index.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="UNIVERSAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Universal.jpg?raw=true" group-title="Canal",UNIVERSAL
 http://45.173.74.2:2010/play/a08o/index.m3u8
