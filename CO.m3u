@@ -89,3 +89,66 @@ http://179.60.51.134:8888/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="ESPN 6" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%206.jpg?raw=true" group-title="Canal",ESPN 6
 http://190.60.55.141:9083/play/a0j4/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="AMC" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/AMC.jpg?raw=true" group-title="Canal1",AMC
+http://190.60.55.141:9083/play/a0et/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="AXN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/AXN.jpg?raw=true" group-title="Canal1",AXN
+http://45.173.74.2:2010/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="A&E" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/A&E.jpg?raw=true" group-title="Canal1",A&E
+http://45.173.74.2:2010/play/a08r/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="CINECANAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Cinecanal.jpg?raw=true" group-title="Canal1",CINECANAL
+http://181.176.155.7:8090/play/a1k4/index.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="DISNEY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Disney.jpg?raw=true" group-title="Canal1",DISNEY
+http://38.224.175.2:8000/play/a0sx/index.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Discovery.jpg?raw=true" group-title="Canal1",DISCOVERY
+http://38.224.175.2:8000/play/a0u1/index.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="FX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/FX.jpg?raw=true" group-title="Canal1",FX
+http://45.173.74.2:2010/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="GOLDEN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Golden.jpg?raw=true" group-title="Canal1",GOLDEN
+http://45.173.74.2:2010/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="HBO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/HBO.jpg?raw=true" group-title="Canal1",HBO
+http://190.60.55.141:9083/play/a0h5/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="HISTORY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History.jpg?raw=true" group-title="Canal1",HISTORY
+http://45.173.74.2:2010/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="HISTORY 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History2.jpg?raw=true" group-title="Canal1",HISTORY 2
+http://45.173.74.2:2010/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="NATGEO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/NatGeo.jpg?raw=true" group-title="Canal1",NATGEO
+http://181.176.155.7:8090/play/a1cj/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="NICKELODEON" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Nickelodeon.jpg?raw=true" group-title="Canal1",NICKELODEON
+http://38.224.175.2:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="SONY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Sony.jpg?raw=true" group-title="Canal1",SONY
+http://45.173.74.2:2010/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="SONY MOVIES" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Sony%20Movies.jpg?raw=true" group-title="Canal1",SONY MOVIES
+http://45.173.74.2:2010/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="SPACE" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Space.jpg?raw=true" group-title="Canal1",SPACE
+http://38.224.175.2:8000/play/a0u2/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="STAR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Star.jpg?raw=true" group-title="Canal1",STAR
+http://38.224.175.2:8000/play/a0sy/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Studio%20Universal.jpg?raw=true" group-title="Canal1",STUDIO UNIVERSAL
+http://45.173.74.2:2010/play/a07m/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="TNT" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TNT.jpg?raw=true" group-title="Canal1",TNT
+http://38.224.175.2:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="TNT SPORTS" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TNT%20Sports.jpg?raw=true" group-title="Canal1",TNT SPORTS
+http://38.224.175.2:8000/play/a0rb/index.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="WARNER" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Warner.jpg?raw=true" group-title="Canal1",WARNER
+http://38.224.175.2:8000/play/a02p/index.m3u8
