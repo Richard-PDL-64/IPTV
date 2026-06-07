@@ -124,7 +124,7 @@ http://45.173.74.2:2010/play/a09a/index.m3u8
 http://45.173.74.2:2010/play/a09m/index.m3u8
 
 #EXTINF:-1 tvg-id="42" tvg-name="NATGEO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/NatGeo.jpg?raw=true" group-title="Canal1",NATGEO
-http://181.176.155.7:8090/play/a1cj/index.m3u8
+http://181.13.252.102:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-name="NICKELODEON" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Nickelodeon.jpg?raw=true" group-title="Canal1",NICKELODEON
 http://38.224.175.2:8000/play/a02s/index.m3u8
