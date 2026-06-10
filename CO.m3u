@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="01" tvg-name="WILLAX TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Willax.jpg?raw=true" group-title="Canal",WILLAX
-http://181.224.255.210:8001/play/a0s7/index.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="02" tvg-name="LATINA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Latina.jpg?raw=true" group-title="Canal",LATINA
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
