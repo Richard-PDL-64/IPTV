@@ -76,7 +76,7 @@ http://45.173.74.2:2010/play/a053/index.m3u8
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-name="LIGA 1 MAX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Liga1Max.jpg?raw=true" group-title="Canal",LIGA 1 MAX
-http://45.173.74.2:2010/play/a08q/index.m3u8
+http://181.224.255.210:8001/playlist.m3u
 
 #EXTINF:-1 tvg-id="27" tvg-name="DSPORTS" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports.jpg?raw=true" group-title="Canal",DSPORTS
 http://181.224.255.210:8001/play/a0s8/index.m3u8
