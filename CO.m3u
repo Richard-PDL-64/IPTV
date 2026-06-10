@@ -106,7 +106,7 @@ http://181.176.155.7:8090/play/a1k4/index.m3u8
 http://38.224.175.2:8000/play/a0sx/index.m3u8
 
 #EXTINF:-1 tvg-id="36" tvg-name="DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Discovery.jpg?raw=true" group-title="Canal1",DISCOVERY
-http://38.224.175.2:8000/play/a0u1/index.m3u8
+http://45.173.74.2:2010/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-name="FX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/FX.jpg?raw=true" group-title="Canal1",FX
 http://45.173.74.2:2010/play/a098/index.m3u8
