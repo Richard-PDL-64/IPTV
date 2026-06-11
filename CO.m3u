@@ -118,10 +118,10 @@ http://181.176.155.7:8090/play/a1up/index.m3u8
 http://190.60.55.141:9083/play/a0h5/index.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-name="HISTORY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History.jpg?raw=true" group-title="Canal1",HISTORY
-http://45.173.74.2:2010/play/a09a/index.m3u8
+http://181.224.255.210:8001/play/a0m1/index.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-name="HISTORY 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History2.jpg?raw=true" group-title="Canal1",HISTORY 2
-http://45.173.74.2:2010/play/a09m/index.m3u8
+http://181.224.255.210:8001/play/a0qh/index.m3u8
 
 #EXTINF:-1 tvg-id="42" tvg-name="NATGEO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/NatGeo.jpg?raw=true" group-title="Canal1",NATGEO
 http://190.60.48.151:8010/play/NAT_GEO_TVV/index.m3u8
