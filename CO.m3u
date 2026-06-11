@@ -7,7 +7,7 @@ http://181.224.255.210:8001/play/a0s7/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="03" tvg-name="GLOBAL TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Global%20TV.jpg?raw=true" group-title="Canal",GLOBAL
-http://181.224.255.210:8001/play/a0r9/index.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="04" tvg-name="AMERICA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/America%20TV.jpg?raw=true" group-title="Canal",AMERICA
 http://181.176.155.7:8090/play/a1u7/index.m3u8
