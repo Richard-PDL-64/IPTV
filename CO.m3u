@@ -81,77 +81,83 @@ http://181.224.255.210:8001/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="DSPORTS" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports.jpg?raw=true" group-title="Canal",DSPORTS
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN.jpg?raw=true" group-title="Canal",ESPN
+#EXTINF:-1 tvg-id="28" tvg-name="DSPORTS2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports2.jpg?raw=true" group-title="Canal",DSPORTS2
+http://181.119.93.83:8000/play/a185/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="DSPORTS+" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports%20Plus.jpg?raw=true" group-title="Canal",DSPORTS+
+http://181.119.93.83:8000/play/a28a/index.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="ESPN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN.jpg?raw=true" group-title="Canal",ESPN
 http://179.60.51.134:8888/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="ESPN LATIN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%20Latin.jpg?raw=true" group-title="Canal",ESPN LATIN
+#EXTINF:-1 tvg-id="31" tvg-name="ESPN LATIN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%20Latin.jpg?raw=true" group-title="Canal",ESPN LATIN
 http://190.108.93.180:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="ESPN 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%202.jpg?raw=true" group-title="Canal",ESPN 2
+#EXTINF:-1 tvg-id="32" tvg-name="ESPN 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%202.jpg?raw=true" group-title="Canal",ESPN 2
 http://179.60.51.134:8888/ESPN2/index.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="ESPN 6" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%206.jpg?raw=true" group-title="Canal",ESPN 6
+#EXTINF:-1 tvg-id="33" tvg-name="ESPN 6" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%206.jpg?raw=true" group-title="Canal",ESPN 6
 http://190.60.55.141:9083/play/a0j4/index.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-name="AMC" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/AMC.jpg?raw=true" group-title="Canal",AMC
+#EXTINF:-1 tvg-id="34" tvg-name="AMC" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/AMC.jpg?raw=true" group-title="Canal",AMC
 http://190.60.55.141:9083/play/a0et/index.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="AXN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/AXN.jpg?raw=true" group-title="Canal",AXN
+#EXTINF:-1 tvg-id="35" tvg-name="AXN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/AXN.jpg?raw=true" group-title="Canal",AXN
 http://181.176.155.7:8090/play/a1cl/index.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="A&E" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/A&E.jpg?raw=true" group-title="Canal",A&E
+#EXTINF:-1 tvg-id="36" tvg-name="A&E" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/A&E.jpg?raw=true" group-title="Canal",A&E
 http://181.176.155.7:8090/play/a1vh/index.m3u8
 
-#EXTINF:-1 tvg-id="35" tvg-name="CINECANAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Cinecanal.jpg?raw=true" group-title="Canal",CINECANAL
+#EXTINF:-1 tvg-id="37" tvg-name="CINECANAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Cinecanal.jpg?raw=true" group-title="Canal",CINECANAL
 http://181.176.155.7:8090/play/a1k4/index.m3u8
 
-#EXTINF:-1 tvg-id="36" tvg-name="DISNEY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Disney.jpg?raw=true" group-title="Canal",DISNEY
+#EXTINF:-1 tvg-id="38" tvg-name="DISNEY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Disney.jpg?raw=true" group-title="Canal",DISNEY
 http://181.119.93.83:8000/play/a1fy/index.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Discovery.jpg?raw=true" group-title="Canal",DISCOVERY
+#EXTINF:-1 tvg-id="39" tvg-name="DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Discovery.jpg?raw=true" group-title="Canal",DISCOVERY
 http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-name="FX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/FX.jpg?raw=true" group-title="Canal",FX
+#EXTINF:-1 tvg-id="40" tvg-name="FX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/FX.jpg?raw=true" group-title="Canal",FX
 http://181.176.155.7:8090/play/a1k9/index.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-name="GOLDEN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Golden.jpg?raw=true" group-title="Canal",GOLDEN
+#EXTINF:-1 tvg-id="41" tvg-name="GOLDEN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Golden.jpg?raw=true" group-title="Canal",GOLDEN
 http://181.176.155.7:8090/play/a1up/index.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-name="HBO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/HBO.jpg?raw=true" group-title="Canal",HBO
+#EXTINF:-1 tvg-id="42" tvg-name="HBO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/HBO.jpg?raw=true" group-title="Canal",HBO
 http://190.60.55.141:9083/play/a0h5/index.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="HISTORY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History.jpg?raw=true" group-title="Canal",HISTORY
+#EXTINF:-1 tvg-id="43" tvg-name="HISTORY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History.jpg?raw=true" group-title="Canal",HISTORY
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="HISTORY 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History2.jpg?raw=true" group-title="Canal",HISTORY 2
+#EXTINF:-1 tvg-id="44" tvg-name="HISTORY 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/History2.jpg?raw=true" group-title="Canal",HISTORY 2
 http://181.224.255.210:8001/play/a0qh/index.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="NATGEO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/NatGeo.jpg?raw=true" group-title="Canal",NATGEO
+#EXTINF:-1 tvg-id="45" tvg-name="NATGEO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/NatGeo.jpg?raw=true" group-title="Canal",NATGEO
 http://190.60.48.151:8010/play/NAT_GEO_TVV/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="NICKELODEON" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Nickelodeon.jpg?raw=true" group-title="Canal",NICKELODEON
+#EXTINF:-1 tvg-id="46" tvg-name="NICKELODEON" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Nickelodeon.jpg?raw=true" group-title="Canal",NICKELODEON
 http://190.60.55.141:9083/play/a0nm/index.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-name="SONY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Sony.jpg?raw=true" group-title="Canal",SONY
+#EXTINF:-1 tvg-id="47" tvg-name="SONY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Sony.jpg?raw=true" group-title="Canal",SONY
 http://181.176.155.7:8090/play/a1ck/index.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="SONY MOVIES" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Sony%20Movies.jpg?raw=true" group-title="Canal",SONY MOVIES
+#EXTINF:-1 tvg-id="48" tvg-name="SONY MOVIES" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Sony%20Movies.jpg?raw=true" group-title="Canal",SONY MOVIES
 http://181.119.93.83:8000/play/a21i/index.m3u8
 
-#EXTINF:-1 tvg-id="47" tvg-name="SPACE" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Space.jpg?raw=true" group-title="Canal",SPACE
+#EXTINF:-1 tvg-id="49" tvg-name="SPACE" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Space.jpg?raw=true" group-title="Canal",SPACE
 http://181.176.155.7:8090/play/a1k6/index.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="STAR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Star.jpg?raw=true" group-title="Canal",STAR
+#EXTINF:-1 tvg-id="50" tvg-name="STAR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Star.jpg?raw=true" group-title="Canal",STAR
 http://181.176.155.7:8090/play/a1ka/index.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Studio%20Universal.jpg?raw=true" group-title="Canal",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="51" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Studio%20Universal.jpg?raw=true" group-title="Canal",STUDIO UNIVERSAL
 http://181.176.155.7:8090/play/a1w2/index.m3u8
 
-#EXTINF:-1 tvg-id="50" tvg-name="TNT" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TNT.jpg?raw=true" group-title="Canal",TNT
+#EXTINF:-1 tvg-id="52" tvg-name="TNT" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TNT.jpg?raw=true" group-title="Canal",TNT
 http://181.176.155.7:8090/play/a1kb/index.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-name="TNT SPORTS" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TNT%20Sports.jpg?raw=true" group-title="Canal",TNT SPORTS
+#EXTINF:-1 tvg-id="53" tvg-name="TNT SPORTS" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TNT%20Sports.jpg?raw=true" group-title="Canal",TNT SPORTS
 http://190.60.55.141:9083/play/a0nd/index.m3u8
 
-#EXTINF:-1 tvg-id="52" tvg-name="WARNER" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Warner.jpg?raw=true" group-title="Canal",WARNER
+#EXTINF:-1 tvg-id="54" tvg-name="WARNER" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Warner.jpg?raw=true" group-title="Canal",WARNER
 http://181.176.155.7:8090/play/a1k5/index.m3u8
