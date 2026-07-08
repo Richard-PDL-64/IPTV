@@ -52,7 +52,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/chunks.m3u8
 https://play.agenciastreaming.com:8081/tvalturalimalive/index.fmp4.m3u8    
 
 #EXTINF:-1 tvg-id="18" tvg-name="KARIBEÑA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Karibe%C3%B1a.jpg?raw=true" group-title="Canal",KARIBEÑA
-https://live-evg16.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="19" tvg-name="DW ESPAÑOL" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DW%20Espa%C3%B1ol.jpg?raw=true" group-title="Canal",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
