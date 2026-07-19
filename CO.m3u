@@ -64,7 +64,7 @@ http://181.176.155.7:8090/play/a1cm/index.m3u8
 http://181.176.155.7:8090/play/a1co/index.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="USA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/USA.jpg?raw=true" group-title="Canal",USA
-http://8.243.126.131:8000/play/a05z/index.m3u8
+http://179.60.51.134:8888/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="TELEMUNDO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Telemundo.jpg?raw=true" group-title="Canal",TELEMUNDO
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
