@@ -13,7 +13,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 http://181.224.255.210:8001/play/a0pj/index.m3u8
 
 #EXTINF:-1 tvg-id="05" tvg-name="PANAMERICANA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Panamericana.jpg?raw=true" group-title="Canal",PANAMERICANA
-http://179.60.51.134:8888/PANAMERICANA/index.m3u8
+http://181.224.255.210:8001/play/a0pj/index.m3u8
 
 #EXTINF:-1 tvg-id="06" tvg-name="PBO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/PBO.jpg?raw=true" group-title="Canal",PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
