@@ -34,7 +34,7 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/
 https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="RPP" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/RPP.jpg?raw=true" group-title="Canal",RPP
-https://cdn-origin.smartplay.pe/rpp/index.m3u8
+https://origin.dpsgo.com/ssai/event/LIxDWCRXQWiMvDmmq8_zgw/master.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-name="CORPORACION PASCO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Coorporacion%20TV%20Pasco.jpg?raw=true" group-title="Canal",CORPORACION PASCO
 https://live-evg5.tv360.bitel.com.pe/bitel/radiocorporacionpasco/chunks.m3u8
