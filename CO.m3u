@@ -82,7 +82,7 @@ http://181.119.93.83:8000/play/a185/index.m3u8
 http://181.119.93.83:8000/play/a28a/index.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Movistar%20Deportes.jpg?raw=true" group-title="Canal",MOVISTAR DEPORTES
-http://181.119.93.83:8000/play/a21k/index.m3u8
+http://190.108.93.180:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-name="ESPN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN.jpg?raw=true" group-title="Canal",ESPN
 http://179.60.51.134:8888/ESPN/index.m3u8
