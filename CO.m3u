@@ -88,7 +88,7 @@ http://190.108.93.180:8000/play/a017/index.m3u8
 http://177.234.249.178:8888/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="ESPN LATIN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%20Latin.jpg?raw=true" group-title="Canal",ESPN LATIN
-http://190.108.93.180:8000/play/a06v/index.m3u8
+http://190.108.93.180:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-name="ESPN 2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ESPN%202.jpg?raw=true" group-title="Canal",ESPN 2
 http://177.234.249.178:8888/ESPN2/index.m3u8
