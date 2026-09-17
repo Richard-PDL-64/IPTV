@@ -145,7 +145,7 @@ http://190.108.93.180:8000/play/a006/index.m3u8
 http://190.108.93.180:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="49" tvg-name="UNIVERSAL CRIME" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Universal%20Crime.jpg?raw=true" group-title="Canal",UNIVERSAL CRIME
-http://45.228.235.116:8000/play/a0i4/index.m3u8
+http://38.107.110.140:61400/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="50" tvg-name="WARNER" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Warner.jpg?raw=true" group-title="Canal",WARNER
 http://190.108.93.180:8000/play/a042/index.m3u8
