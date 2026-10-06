@@ -73,7 +73,7 @@ http://38.107.110.140:61400/play/a020/index.m3u8
 http://38.224.48.4:8000/play/a0x2/index.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-name="DSPORTS" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports.jpg?raw=true" group-title="Canal",DSPORTS
-http://181.66.249.246:8000/play/a0kh/index.m3u8
+http://38.224.231.176:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-name="DSPORTS2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports2.jpg?raw=true" group-title="Canal",DSPORTS2
 http://181.66.249.246:8000/play/a0km/index.m3u8
@@ -97,7 +97,7 @@ http://190.108.93.180:8000/play/a02q/index.m3u8
 http://190.108.93.180:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="ANIMAL PLANET" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Animal%20Planet.jpg?raw=true" group-title="Canal",ANIMAL PLANET
-http://45.228.235.116:8000/play/a07u/index.m3u8
+http://45.5.118.139:8000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-name="AXN" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/AXN.jpg?raw=true" group-title="Canal",AXN
 http://190.108.93.180:8000/play/a043/index.m3u8
@@ -109,7 +109,7 @@ http://190.108.93.180:8000/play/a02l/index.m3u8
 http://190.108.93.180:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-name="DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Discovery.jpg?raw=true" group-title="Canal",DISCOVERY
-http://181.78.82.130:8000/play/a0lr/index.m3u8
+http://38.224.48.4:8000/play/a0oi/index.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-name="FX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/FX.jpg?raw=true" group-title="Canal",FX
 http://190.108.93.180:8000/play/a047/index.m3u8
@@ -130,7 +130,7 @@ http://190.60.48.151:8010/play/NAT_GEO_TVV/index.m3u8
 http://190.108.93.180:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="SONY MOVIES" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Sony%20Movies.jpg?raw=true" group-title="Canal",SONY MOVIES
-http://45.228.235.116:8000/play/a04g/index.m3u8
+http://45.5.118.139:8000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-name="SPACE" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Space.jpg?raw=true" group-title="Canal",SPACE
 http://190.108.93.180:8000/play/a05x/index.m3u8
