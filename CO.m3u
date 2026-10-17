@@ -25,7 +25,7 @@ http://38.224.48.4:8000/play/a0ei/index.m3u8
 http://190.93.224.42/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="09" tvg-name="ATV+" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV+.jpg?raw=true" group-title="Canal",ATV+
-https://d2h2wh04y3aqtb.cloudfront.net/hls/32nynqn38go4/8_5/index.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/32nynqn38go4/6_5/index.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="ATV SUR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV%20Sur.jpg?raw=true" group-title="Canal",ATV SUR
 https://d2h2wh04y3aqtb.cloudfront.net/hls/jryddd3ktckq/6_5/index.m3u8
