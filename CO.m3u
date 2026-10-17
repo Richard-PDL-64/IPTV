@@ -28,7 +28,7 @@ http://190.93.224.42/ATV/index.m3u8
 https://d2h2wh04y3aqtb.cloudfront.net/hls/32nynqn38go4/8_5/index.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="ATV SUR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV%20Sur.jpg?raw=true" group-title="Canal",ATV SUR
-https://d6qmllupbc5d2.cloudfront.net/hls/jryddd3ktckq/6_5/index.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/jryddd3ktckq/6_5/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="EXITOSA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Exitosa.jpg?raw=true" group-title="Canal",EXITOSA
 https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8
