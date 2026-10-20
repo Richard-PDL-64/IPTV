@@ -25,10 +25,10 @@ http://38.224.48.4:8000/play/a0ei/index.m3u8
 http://190.93.224.42/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="09" tvg-name="ATV+" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV+.jpg?raw=true" group-title="Canal",ATV+
-https://d2h2wh04y3aqtb.cloudfront.net/hls/32nynqn38go4/6_5/index.m3u8
+https://live-evg20.tv360.bitel.com.pe/FT4JW3HOLS0bqpFEe0PuNw/1792567944/bitel/Atv+-UDP_abr/bitel/ATV+-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="ATV SUR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV%20Sur.jpg?raw=true" group-title="Canal",ATV SUR
-https://d2h2wh04y3aqtb.cloudfront.net/hls/jryddd3ktckq/5_6/index.m3u8
+https://d6qmllupbc5d2.cloudfront.net/hls/jryddd3ktckq/4_5/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="EXITOSA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Exitosa.jpg?raw=true" group-title="Canal",EXITOSA
 https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8
