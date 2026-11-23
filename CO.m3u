@@ -79,7 +79,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_so
 http://38.224.231.176:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="DSPORTS2" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports2.jpg?raw=true" group-title="Canal",DSPORTS2
-http://181.66.249.246:8000/play/a0km/index.m3u8
+http://181.224.255.210:8001/play/a0s8/index.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="DSPORTS+" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DSports%20Plus.jpg?raw=true" group-title="Canal",DSPORTS+
 http://38.224.175.2:8000/play/a011/index.m3u8
